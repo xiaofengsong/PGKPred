@@ -4,18 +4,20 @@ PGKPred is a lysine phosphoglycerylation sites predictor based on most distant u
 
 Input
 
-  The input file is "test_sample.txt"
-  The query FASTA sequences should be placed into the test_sample.txt
+    The input file is "test_sample.txt"
+  
+    The query FASTA sequences should be placed into the test_sample.txt
   
 An Example: 
 
-  >P1
-  RAVNQDKKNMLFSGT
+    > P1
+  
+    RAVNQDKKNMLFSGT
   
 Output
 
-  The output file is "results.txt".
+    The output file is "results.txt".
   
 An Example: 
 
-  The query sequence (P1) is a phosphoglycerylation sequence
+    The query sequence (P1) is a phosphoglycerylation sequence
